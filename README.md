@@ -11,7 +11,7 @@ cargo run
 
 **Dependencies:**
 
-- axum ="0.6.2
+- axum = 0.6.2
 - serde = 1.0.152
 - tokio = 1.24.1
 - tower-http = 0.3.5
